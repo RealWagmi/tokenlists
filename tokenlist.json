@@ -91411,6 +91411,15 @@
             "symbol": "ZRX",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x596fA47043f99A4e0F122243B841E55375cdE0d2/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e",
+            "decimals": 18,
+            "name": "Manatea The Metis Manatee",
+            "symbol": "MANAT",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e/logo.png"
         }
     ],
     "timestamp": "2023-12-19T09:28:25.775Z"
