@@ -92518,7 +92518,16 @@
             "symbol": "MANAT",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x34b4C6eb40A10BE8f8aBE4785f1DE987A2C7Fb07",
+            "decimals": 18,
+            "name": "EleinaDMetis",
+            "symbol": "ATSES",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x34b4C6eb40A10BE8f8aBE4785f1DE987A2C7Fb07/logo.png"
         }
     ],
-    "timestamp": "2024-01-15T10:47:55.437Z"
+    "timestamp": "2024-01-16T22:51:37.625Z" 
 }
