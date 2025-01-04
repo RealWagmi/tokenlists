@@ -1105,7 +1105,16 @@
             "symbol": "GOGLZ",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564/logo.png"
-        }
+        },
+        {
+            "chainId": 146,
+            "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+            "decimals": 18,
+            "name": "Hedgy The Hedgehog",
+            "symbol": "HEDGY",
+            "tags": [defi],
+            "logoURI": "https://github.com/sadrra/tokenlists/tree/main/0x6fB9897896Fe5D05025Eb43306675727887D0B7c"
+        },
     ],
     "timestamp": "2025-01-03T12:12:06.762Z"
 }
