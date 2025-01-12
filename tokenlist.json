@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 21,
+        "minor": 22,
         "patch": 2
     },
     "tokens": [
@@ -1123,7 +1123,16 @@
             "symbol": "SSS",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x051b94B2F176AEa8B1058D3d4173bcEEC2a193BC/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
+            "decimals": 18,
+            "name": "Whale",
+            "symbol": "WHALE",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x068e9e009fDa970fA953E1f6a43D982cA991F4bA/logo.png"
         }
     ],
-    "timestamp": "2025-01-08T14:28:02.889Z"
+    "timestamp": "2025-01-12T09:24:15.108Z"
 }
