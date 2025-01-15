@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 22,
+        "minor": 23,
         "patch": 2
     },
     "tokens": [
@@ -1132,7 +1132,16 @@
             "symbol": "WHALE",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x068e9e009fDa970fA953E1f6a43D982cA991F4bA/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x2508b6ae20A0F05dBBd3cd75474AEB30A1eF403f",
+            "decimals": 18,
+            "name": "Yeh Boy",
+            "symbol": "Yeh",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x2508b6ae20A0F05dBBd3cd75474AEB30A1eF403f/logo.png"
         }
     ],
-    "timestamp": "2025-01-12T09:24:15.108Z"
+    "timestamp": "2025-01-15T14:09:58.645Z"
 }
