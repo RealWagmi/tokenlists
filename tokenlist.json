@@ -1141,7 +1141,88 @@
             "symbol": "Yeh",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x2508b6ae20A0F05dBBd3cd75474AEB30A1eF403f/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 10,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/10/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/56/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 137,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/137/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 146,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 250,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/250/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8453/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
+            "decimals": 18,
+            "name": "YELToken",
+            "symbol": "YEL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-01-15T14:09:58.645Z"
+    "timestamp": "2025-01-16T15:57:51.614Z"
 }
