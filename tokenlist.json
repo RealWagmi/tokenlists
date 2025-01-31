@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 24,
+        "minor": 25,
         "patch": 2
     },
     "tokens": [
@@ -61,6 +61,15 @@
             "symbol": "WAGMI",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0x92CC36D66e9d739D50673d1f27929a371FB83a67/logo.png"
+        },
+        {
+            "chainId": 1,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
         },
         {
             "chainId": 10,
@@ -151,6 +160,15 @@
             "symbol": "WAGMI",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/56/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/56/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
         },
         {
             "chainId": 137,
@@ -792,6 +810,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x890f0fB78A7A24392450B2cb294B980683F11e76/logo.png"
         },
         {
+            "chainId": 2222,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/2222/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
+        },
+        {
             "chainId": 42161,
             "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
             "decimals": 18,
@@ -837,6 +864,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
         },
         {
+            "chainId": 42161,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/42161/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "decimals": 18,
@@ -873,6 +909,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
         },
         {
+            "chainId": 43114,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
+        },
+        {
             "chainId": 1088,
             "address": "0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e",
             "decimals": 18,
@@ -889,6 +934,15 @@
             "symbol": "ZKE",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0xdf020cBd1897133978C7FcDF04B07E69d8934Efc/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/1088/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
         },
         {
             "chainId": 810180,
@@ -999,6 +1053,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0xBc51E6807F31C3E4E21Df7fB8e4F94a500D27E8b/logo.png"
         },
         {
+            "chainId": 8822,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
+        },
+        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "decimals": 18,
@@ -1042,6 +1105,15 @@
             "symbol": "MIM",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8453/0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d/logo.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+            "decimals": 18,
+            "name": "HeyAnon",
+            "symbol": "Anon",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8453/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
         },
         {
             "chainId": 146,
@@ -1224,5 +1296,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-01-16T15:57:51.614Z"
+    "timestamp": "2025-01-31T08:20:23.146Z"
 }
