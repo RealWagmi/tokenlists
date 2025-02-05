@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 25,
+        "minor": 26,
         "patch": 2
     },
     "tokens": [
@@ -1062,6 +1062,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
         },
         {
+            "chainId": 8822,
+            "address": "0x9340b0dAcb03b22029082f2C9600760fA0ce1F0f",
+            "decimals": 18,
+            "name": "Sail",
+            "symbol": "SAIL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/8822/0x9340b0dAcb03b22029082f2C9600760fA0ce1F0f/logo.png"
+        },
+        {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
             "decimals": 18,
@@ -1296,5 +1305,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-01-31T08:20:23.146Z"
+    "timestamp": "2025-02-05T13:33:39.450Z"
 }
