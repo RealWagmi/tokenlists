@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 26,
+        "minor": 27,
         "patch": 2
     },
     "tokens": [
@@ -1224,6 +1224,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x2508b6ae20A0F05dBBd3cd75474AEB30A1eF403f/logo.png"
         },
         {
+            "chainId": 146,
+            "address": "0x8ad39144B37741573F85aa03D6c3E817A0054161",
+            "decimals": 18,
+            "name": "Fate Adventure",
+            "symbol": "FA",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x8ad39144B37741573F85aa03D6c3E817A0054161/logo.png"
+        },
+        {
             "chainId": 1,
             "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
             "decimals": 18,
@@ -1305,5 +1314,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-02-05T13:33:39.450Z"
+    "timestamp": "2025-02-12T15:53:35.929Z"
 }
