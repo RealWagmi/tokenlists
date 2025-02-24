@@ -1242,6 +1242,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0xf4F9C50455C698834Bb645089DbAa89093b93838/logo.png"
         },
         {
+            "chainId": 146,
+            "address": "0x24b50D4BF6c9f2dC87a2a696C13cb7daAEd92D45",
+            "decimals": 18,
+            "name": "Haunted ICE",
+            "symbol": "ICE",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x24b50D4BF6c9f2dC87a2a696C13cb7daAEd92D45/logo.png"
+        },
+        {
             "chainId": 1,
             "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
             "decimals": 18,
