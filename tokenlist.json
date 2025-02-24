@@ -1233,6 +1233,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x8ad39144B37741573F85aa03D6c3E817A0054161/logo.png"
         },
         {
+            "chainId": 146,
+            "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
+            "decimals": 18,
+            "name": "toona",
+            "symbol": "toona",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0xf4F9C50455C698834Bb645089DbAa89093b93838/logo.png"
+        },
+        {
             "chainId": 1,
             "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
             "decimals": 18,
