@@ -1252,6 +1252,15 @@
         },
         {
             "chainId": 146,
+            "address": "0x71dEb5Aa43fF6ab914E9F3bba12a6f5DA4d0301D",
+            "decimals": 18,
+            "name": "Haunted TIME",
+            "symbol": "TIME",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x71dEb5Aa43fF6ab914E9F3bba12a6f5DA4d0301D/logo.png"
+        },
+        {
+            "chainId": 146,
             "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
             "decimals": 6,
             "name": "Tether USD",
@@ -1341,5 +1350,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-02-24T12:50:26.977Z"
+    "timestamp": "2025-02-25T06:01:00.000Z"
 }
