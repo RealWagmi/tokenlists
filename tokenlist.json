@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 29,
+        "minor": 30,
         "patch": 2
     },
     "tokens": [
@@ -1269,6 +1269,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x65A3E654790a2B7ED80afcA646cAaEbaa84dB4df/logo.png"
         },
         {
+            "chainId": 146,
+            "address": "0xfffFfff80e1291dbb712536EEbc9C27Ff274a78E",
+            "decimals": 18,
+            "name": "Coin",
+            "symbol": "COIN",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0xfffFfff80e1291dbb712536EEbc9C27Ff274a78E/logo.png"
+        },
+        {
             "chainId": 1,
             "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
             "decimals": 18,
@@ -1350,5 +1359,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-03-10T08:24:22.698Z"
+    "timestamp": "2025-03-24T12:24:11.401Z"
 }
