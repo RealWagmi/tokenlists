@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 30,
+        "minor": 31,
         "patch": 2
     },
     "tokens": [
@@ -1278,6 +1278,15 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0xfffFfff80e1291dbb712536EEbc9C27Ff274a78E/logo.png"
         },
         {
+            "chainId": 146,
+            "address": "0x6782c228b2603c15b380D9D4807d703070d35E1c",
+            "decimals": 18,
+            "name": "FTM",
+            "symbol": "FTM",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x6782c228b2603c15b380D9D4807d703070d35E1c/logo.png"
+        },
+        {
             "chainId": 1,
             "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
             "decimals": 18,
@@ -1359,5 +1368,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-03-24T12:24:11.401Z"
+    "timestamp": "2025-04-15T09:57:10.650Z"
 }
