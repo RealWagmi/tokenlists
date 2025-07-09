@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 31,
+        "minor": 32,
         "patch": 2
     },
     "tokens": [
@@ -1286,6 +1286,15 @@
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x6782c228b2603c15b380D9D4807d703070d35E1c/logo.png"
         },
+         {
+            "chainId": 146,
+            "address": "0x5384c5fd2ec53E5b1f0F12049DD148e063afcb35",
+            "decimals": 18,
+            "name": "SONIC",
+            "symbol": "SNC",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x5384c5fd2ec53E5b1f0F12049DD148e063afcb35/logo.png"
+        },
         {
             "chainId": 1,
             "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
@@ -1368,5 +1377,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-04-15T09:57:10.650Z"
+    "timestamp": "2025-07-09T10:19:37.661Z"
 }
