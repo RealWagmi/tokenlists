@@ -4,7 +4,7 @@
     "keywords": [],
     "version": {
         "major": 11,
-        "minor": 32,
+        "minor": 33,
         "patch": 2
     },
     "tokens": [
@@ -1333,6 +1333,15 @@
         },
         {
             "chainId": 146,
+            "address": "0xa18ac78A0121Fee3ecA613FCB5AD21E96286A6CA",
+            "decimals": 18,
+            "name": "Wrapped Womo",
+            "symbol": "wWM",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0xa18ac78A0121Fee3ecA613FCB5AD21E96286A6CA/logo.png"
+        },
+        {
+            "chainId": 146,
             "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
             "decimals": 18,
             "name": "YELToken",
@@ -1377,5 +1386,5 @@
             "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/43114/0x949185D3BE66775Ea648F4a306740EA9eFF9C567/logo.png"
         }
     ],
-    "timestamp": "2025-07-09T10:19:37.661Z"
+    "timestamp": "2025-07-17T09:57:11.499Z"
 }
